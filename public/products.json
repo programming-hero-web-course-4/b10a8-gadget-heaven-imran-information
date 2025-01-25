@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "category": "Computers",
+        "product_name": "UltraTech Laptop Pro 15",
+        "image": "https://i.ibb.co.com/9vYvKmD/OIP.jpg",
+        "price": 1299.99,
+        "details": "15-inch display, Intel i7, 16GB RAM, 512GB SSD"
+    },
+    {
+        "id": 2,
+        "category": "Computers",
+        "product_name": "Lightbook Air X",
+        "image": "https://i.ibb.co.com/mBvN8t9/notebook-gateway-gwtn156-1-foto-rosa1.jpg",
+        "price": 999.99,
+        "details": "13-inch display, Intel i5, 8GB RAM, 256GB SSD"
+    },
+    {
+        "id": 3,
+        "category": "Phones",
+        "product_name": "Galaxy Vision S20",
+        "image": "https://i.ibb.co.com/3FX9nf8/OIP.jpg",
+        "price": 799.99,
+        "details": "6.4-inch display, 128GB storage, 5G capable"
+    },
+    {
+        "id": 4,
+        "category": "Phones",
+        "product_name": "iFone Z11",
+        "image": "https://i.ibb.co.com/brmcRdm/cb8f75e5-1b8e-4c06-9776-0d995a314ada-88ab53492f6fe7e653033585616419b1.webp",
+        "price": 1099.99,
+        "details": "6.1-inch display, 256GB storage, 5G capable"
+    },
+    {
+        "id": 5,
+        "category": "Smartwatches",
+        "product_name": "PulseWatch 4",
+        "image": "https://i.ibb.co.com/dmscgkg/OIP.jpg",
+        "price": 299.99,
+        "details": "1.6-inch display, heart rate monitor, GPS, water resistant"
+    },
+    {
+        "id": 6,
+        "category": "Smartwatches",
+        "product_name": "ChronoFit Gen3",
+        "image": "https://i.ibb.co.com/3WhDGBc/Oraimo-Smart-Watches.webp",
+        "price": 199.99,
+        "details": "1.4-inch display, fitness tracking, Bluetooth 5.0"
+    },
+    {
+        "id": 7,
+        "category": "Chargers",
+        "product_name": "QuickCharge Pro",
+        "image": "https://i.ibb.co.com/dbDk55D/download.jpg",
+        "price": 39.99,
+        "details": "30W fast charger, USB-C, compatible with most devices"
+    },
+    {
+        "id": 8,
+        "category": "Chargers",
+        "product_name": "MagPower Hub",
+        "image": "https://i.ibb.co.com/fFf8rBn/mobile-fast-charging.webp",
+        "price": 49.99,
+        "details": "Wireless charging pad, supports multiple devices"
+    },
+    {
+        "id": 9,
+        "category": "PowerBanks",
+        "product_name": "PowerBank Max 20000mAh",
+        "image": "https://i.ibb.co.com/bPYpgT7/OIP.jpg",
+        "price": 59.99,
+        "details": "20000mAh capacity, dual USB ports, fast charging support"
+    },
+    {
+        "id": 10,
+        "category": "PowerBanks",
+        "product_name": "MiniJuice 10000mAh",
+        "image": "https://i.ibb.co.com/R7gSCVT/OIP.jpg",
+        "price": 29.99,
+        "details": "10000mAh capacity, compact design, USB-C and micro USB"
+    },
+    {
+        "id": 11,
+        "category": "Phones",
+        "product_name": "Pixel Ace X",
+        "image": "https://i.ibb.co.com/yffTQHq/google-pixel-9-5k-4.webp",
+        "price": 899.99,
+        "details": "6.5-inch display, 128GB storage, advanced AI camera"
+    },
+    {
+        "id": 12,
+        "category": "Computers",
+        "product_name": "GameBox Razer X",
+        "image": "https://i.ibb.co.com/254rXDt/Gateway-GWTN156-15-6-4-GB-128-GB-SSD-AMD-Ryzen-3-3250-U-1-10-GHz-Win10-S-Red-Used-Good-7105de19-a916.webp",
+        "price": 1499.99,
+        "details": "17-inch display, AMD Ryzen 7, 16GB RAM, NVIDIA GTX 1660"
+    }
+]
